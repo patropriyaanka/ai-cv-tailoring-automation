@@ -118,9 +118,6 @@ Create your Google Sheet with the following exact column headers in Row 1:
 
 
 > 💡 **Tip:** Leave Row 1 as headers. Add each new application as a new row from Row 2 onwards. The Make.com trigger watches for new rows and fires automatically.
-
-<img width="1440" height="900" alt="Screenshot 2026-03-12 at 4 25 17 PM" src="https://github.com/user-attachments/assets/3eb6084e-3273-4425-ba3c-d20db901785d" />
-
 ---
 
 ## 💡 What I Learned
